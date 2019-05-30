@@ -1,6 +1,10 @@
 # Northwind-Sales-Analysis
 The primary objective of the project is to Analyse sales for Northwind data using QlikSense &amp; Tableau.
 
+![alt text](https://github.com/shreyaswankhede/Northwind-Sales-Analysis/blob/master/3.jpg
+ "Correlation between features")
+
+
 ***
 
 # Dataset:
